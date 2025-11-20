@@ -24,18 +24,18 @@
   "homepage": "https://github.com/gebrkn/copytables#readme",
   "devDependencies": {
     "del": "^2.2.2",
-    "express": "^4.15.2",
+    "express": "^4.20.0",
     "glob": "^7.1.1",
     "gulp": "^3.9.1",
     "gulp-clip-empty-files": "^0.1.2",
-    "gulp-pug": "^3.3.0",
+    "gulp-pug": "^5.0.0",
     "gulp-rename": "^1.2.2",
-    "gulp-sass": "^3.1.0",
+    "gulp-sass": "^6.0.1",
     "gulp-uglify": "^2.1.0",
     "gulp-util": "^3.0.8",
     "jasmine": "^3.3.1",
     "mustache": "^2.3.0",
     "vinyl-named": "^1.1.0",
-    "webpack-stream": "^3.2.0"
+    "webpack-stream": "^7.0.0"
   }
 }
